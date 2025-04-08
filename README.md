@@ -1,18 +1,5 @@
 # Advanced-File-Manager (AFM)
 
-AFM is a simple CLI file manager based on Bash. It aims to provide a powerful file management experience using vim-like two-letter commands.
-
-## Table of Contents
-
-- [Description](#description)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Description
-
 Advanced-File-Manager (AFM) is a command-line interface (CLI) file manager written in Python. It is designed for users who prefer keyboard-centric navigation and commands, similar to vim. AFM uses two-letter commands to perform various file management tasks efficiently.
 
 ## Features
